@@ -1,0 +1,8 @@
+-- PK primary Key 
+-- NN not null  required 
+-- AI auto increment  usually used with primary key  
+-- Default / Expression  default value for each column 
+-- VARCHAR(50) Data Type maximum is 50 character if the name is only 5 character only stor 5 character
+-- CHAR(50)  Data Type maximum is 50 character if the name is only 5 character  stor 50 character
+-- Date Data Type
+-- INT(11) Data Type
